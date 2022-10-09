@@ -1,7 +1,7 @@
 # Dragon by SpaceX
 
 https://vp4t.github.io/
-This application was crerated with [Create React App](https://github.com/facebook/create-react-app).
+This application was created with [Create React App](https://github.com/facebook/create-react-app).
 
 Information about Dragons was received from the object JSON:
 
